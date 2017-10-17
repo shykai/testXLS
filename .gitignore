@@ -1,0 +1,4 @@
+
+*.db
+.vs/*
+testXLS/x64/Debug/*
